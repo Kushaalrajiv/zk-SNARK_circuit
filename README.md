@@ -5,8 +5,10 @@ A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) template to 
 
 ## Circuit Diagram
 
-![Circuit Diagram](../circuits/circuit.png)
+![Circuit Diagram](./circuits/circuit.png)
 
+### Contract Address
+0xBb79BC5Acf9027D6A824d0D0df82eD8A57Fe0f43
 ## Quick Start
 Compile the Multiplier2() circuit and verify it against a smart contract verifier
 
