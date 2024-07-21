@@ -24,9 +24,9 @@ const config: HardhatUserConfig = {
     ]
   },
   networks:{
-    mumbai:{
-      url: `https://rpc.ankr.com/polygon_mumbai`,
-      accounts:[process.env.private_key]
+  amoy:{
+      url: 'https://rpc-amoy.polygon.technology/',
+      accounts: [process.env.PRIVATE_KEY],
     }
   },
   circom: {
